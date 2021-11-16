@@ -1,1 +1,1 @@
-github.com/Beautyshah/markdown-portfolio
+https://github.com 
